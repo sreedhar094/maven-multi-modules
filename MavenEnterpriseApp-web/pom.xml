@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<artifactId>maven-enterprise-application</artifactId>
+		<artifactId>maven-multi-modules</artifactId>
 		<groupId>com.mt</groupId>
 		<version>1.0</version>
 	</parent>
