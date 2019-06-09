@@ -7,6 +7,11 @@
   <version>1.0</version>
   <name> Maven Enterprise Application</name>
   <url>http://maven.apache.org</url>
+	
+  <properties>
+	  <sonar.host.url>http://13.232.238.67:9000</sonar.host.url>
+  </properties>	  
+	
   <modules>
     <module>MavenEnterpriseApp-ear</module>
     <module>MavenEnterpriseApp-web</module>
