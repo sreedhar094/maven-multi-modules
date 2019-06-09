@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>com.mt</groupId>
-	<artifactId>maven-multi-modules</artifactId>
+	<artifactId>MavenEnterpriseApplication</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
 
