@@ -11,4 +11,18 @@
     <module>MavenEnterpriseApp-ear</module>
     <module>MavenEnterpriseApp-web</module>
   </modules>
+  
+   <distributionManagement>
+	    <repository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://52.66.245.87:8081/repository/sree-maven-release/</url>
+	    </repository>
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://52.66.245.87:8081/repository/sree-maven-snapshot/</url>
+	    </snapshotRepository>
+	</distributionManagement>
+  
 </project>
